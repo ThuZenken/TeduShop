@@ -1,0 +1,12 @@
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Data.deps.json
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Data.dll
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Data.pdb
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.AssemblyInfoInputs.cache
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.AssemblyInfo.cs
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.dll
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.pdb
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.csprojAssemblyReference.cache
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Common.dll
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\bin\Debug\netstandard2.0\TeduShop.Common.pdb
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.csproj.CoreCompileInputs.cache
+E:\Learn\TeduShop\TeduShop\TeduShop.Data\obj\Debug\netstandard2.0\TeduShop.Data.csproj.CopyComplete
