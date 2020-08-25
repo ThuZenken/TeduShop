@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PABtwCtdZ22wmAJxC7QK5pVeq5/1VrBGq7gUw0xHLEQriKg1aicfSYasOf1dYbPdYRpaEJMJ0DOn3X+6NS/qXA==",
+  "dgSpecHash": "9Jh/pdjYeWen9pjSBVFEzK829oruiVVsl9tQADaj1hTAJvUmm/F6EQfkCMouR/i2x7Wb7wzTsgLOi1YO9oDtPQ==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
+  "projectFilePath": "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

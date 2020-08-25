@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {}
+    "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+    "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+        "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj",
         "projectName": "TeduShop.Common",
-        "projectPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+        "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\obj\\",
+        "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

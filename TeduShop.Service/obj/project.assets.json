@@ -304,11 +304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+      "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Service\\TeduShop.Service.csproj",
       "projectName": "TeduShop.Service",
-      "projectPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+      "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Service\\TeduShop.Service.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Service\\obj\\",
+      "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -327,14 +327,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-              "projectPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
+            "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+              "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj"
             },
-            "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
-              "projectPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj"
+            "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj": {
+              "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj"
             },
-            "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
-              "projectPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj"
+            "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj": {
+              "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj"
             }
           }
         }

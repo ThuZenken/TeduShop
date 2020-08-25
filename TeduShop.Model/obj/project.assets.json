@@ -250,11 +250,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+      "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj",
       "projectName": "TeduShop.Model",
-      "projectPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+      "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\TeduShop\\TeduShop\\TeduShop.Model\\obj\\",
+      "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
