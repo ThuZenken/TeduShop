@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "47b/v/7CaaxAib/acWhFTY7z5JmyFYO9jVilXicjJzYnUwMBFz92vclwQ1KZwswdgiY8sBPxw4IwTgbi8JDgCA==",
+  "dgSpecHash": "w/fpPfWW0uzggIR4/+zMHOwsOdM2IFtFvgSdODMXo/HOEKgIMSTVbgaZUzpFfW67IAJPAd5g0LEzCFQZvxWjFQ==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj",
+  "projectFilePath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thunv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []

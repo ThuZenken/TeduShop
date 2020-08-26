@@ -7,3 +7,11 @@ E:\Learn\TeduShop\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Com
 E:\Learn\TeduShop\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.csproj.CoreCompileInputs.cache
 E:\Learn\TeduShop\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.dll
 E:\Learn\TeduShop\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.pdb
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\bin\Debug\netstandard2.0\TeduShop.Common.deps.json
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\bin\Debug\netstandard2.0\TeduShop.Common.dll
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\bin\Debug\netstandard2.0\TeduShop.Common.pdb
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.AssemblyInfoInputs.cache
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.AssemblyInfo.cs
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.csproj.CoreCompileInputs.cache
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.dll
+E:\Learn\ASPNET\TeduShop\TeduShop.Common\obj\Debug\netstandard2.0\TeduShop.Common.pdb

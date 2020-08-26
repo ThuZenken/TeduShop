@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DSZ4XPh+cWZShiUK2MmfnffahFgs9BL/cJbyGrrkNQRe7393uxMuq4xSnb1kmNuWXdjNEMrqKBtunKxNL6DS5A==",
+  "dgSpecHash": "JhRBHP4UAnmH9eEGWSyHiEvgqcZ5SB3jULlgBEK09OSsvBCtCQ80IO3ul83p7Z2l/rTRhqCxw8FbnFvwniBJYg==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj",
+  "projectFilePath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thunv\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\thunv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
