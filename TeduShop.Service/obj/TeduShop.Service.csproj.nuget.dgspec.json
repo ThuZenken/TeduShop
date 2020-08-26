@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\OnlineShop\\TeduShop.Service\\TeduShop.Service.csproj": {}
+    "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+    "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj",
+        "projectUniqueName": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
         "projectName": "TeduShop.Common",
-        "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\obj\\",
+        "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj",
+        "packagesPath": "C:\\Users\\thunv\\.nuget\\packages\\",
+        "outputPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thunv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,24 +58,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj": {
+    "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj",
+        "projectUniqueName": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
         "projectName": "TeduShop.Data",
-        "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Data\\obj\\",
+        "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj",
+        "packagesPath": "C:\\Users\\thunv\\.nuget\\packages\\",
+        "outputPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thunv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,8 +88,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-                "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj"
+              "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+                "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
+              },
+              "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
+                "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj"
               }
             }
           }
@@ -106,6 +109,10 @@
             "EntityFramework": {
               "target": "Package",
               "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -124,24 +131,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj": {
+    "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj",
+        "projectUniqueName": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
         "projectName": "TeduShop.Model",
-        "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\obj\\",
+        "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj",
+        "packagesPath": "C:\\Users\\thunv\\.nuget\\packages\\",
+        "outputPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thunv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,24 +193,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Learn\\OnlineShop\\TeduShop.Service\\TeduShop.Service.csproj": {
+    "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\OnlineShop\\TeduShop.Service\\TeduShop.Service.csproj",
+        "projectUniqueName": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
         "projectName": "TeduShop.Service",
-        "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Service\\TeduShop.Service.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\OnlineShop\\TeduShop.Service\\obj\\",
+        "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Service\\TeduShop.Service.csproj",
+        "packagesPath": "C:\\Users\\thunv\\.nuget\\packages\\",
+        "outputPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thunv\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -216,14 +223,14 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj": {
-                "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Common\\TeduShop.Common.csproj"
+              "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj": {
+                "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Common\\TeduShop.Common.csproj"
               },
-              "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj": {
-                "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Data\\TeduShop.Data.csproj"
+              "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj": {
+                "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Data\\TeduShop.Data.csproj"
               },
-              "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj": {
-                "projectPath": "E:\\Learn\\OnlineShop\\TeduShop.Model\\TeduShop.Model.csproj"
+              "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj": {
+                "projectPath": "E:\\Learn\\ASPNET\\TeduShop\\TeduShop.Model\\TeduShop.Model.csproj"
               }
             }
           }
@@ -254,7 +261,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
