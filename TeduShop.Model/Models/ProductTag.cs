@@ -15,8 +15,10 @@ namespace TeduShop.Model.Models
         [Key, Column(Order = 2)]
         public string TagId { get; set; }
 
+        [ForeignKey("ProductId")]
         public Product Product { get; set; }
 
+        [ForeignKey("TagId")]
         public Tag Tag { get; set; }
     }
 }

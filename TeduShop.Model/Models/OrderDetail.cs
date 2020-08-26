@@ -17,8 +17,10 @@ namespace TeduShop.Model.Models
 
         public int Quality { get; set; }
 
+        [ForeignKey("OrderId")]
         public Order Order { get; set; }
 
+        [ForeignKey("ProductId")]
         public Product Product { get; set; }
     }
 }
